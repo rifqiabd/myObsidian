@@ -22,7 +22,8 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    ""
+    "Template/Table of Content.md",
+    "Template/TOC Cr0kz.md"
   ],
   "startup_templates": [
     ""

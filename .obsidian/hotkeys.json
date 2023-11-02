@@ -14,5 +14,25 @@
       ],
       "key": "\\"
     }
+  ],
+  "templater-obsidian:Template/Table of Content.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "templater-obsidian:Template/TOC Cr0kz.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "Y"
+    }
   ]
 }
