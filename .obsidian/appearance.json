@@ -1,3 +1,5 @@
 {
-  "accentColor": ""
+  "accentColor": "#ffc561",
+  "theme": "system",
+  "cssTheme": "Material Flat"
 }
