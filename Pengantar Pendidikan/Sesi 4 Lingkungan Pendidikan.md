@@ -37,8 +37,13 @@ Masalah pada masa kini, ditemui begitu banyak lulusan Perguruan Tinggi yang bisa
 > Kemukakan pendapat Anda mengapa terjadi masalah tersebut di masa kini dan bagaimana mengatasinya?
 
 ## Jawaban
-Mohon izin semuanya untuk ikut berdiskusi di Diskusi.4 ini
 
+> [!info]
+> Nama : Ahmad Rifqi Abdillah
+> NIM    : 050467393 
+
+
+Mohon izin semuanya untuk ikut berdiskusi di Diskusi.4 ini
 Langsung saja pada topik pertanyaannya
 
 ### **Mengapa pengangguran intelektual terjadi?**
@@ -48,9 +53,6 @@ Meskipun saat ini jumlah lulusan Perguruan Tinggi yang mempunyai title sarjana s
 
 Dengan demikian jumlah lapangan kerja yang tersedia untuk menampungnya tentu saja harus sebanding, jika tidak akan muncul fenomena pengangguran intelektual.
 
-### **Mengapa Sekolah Kekurangan Siswa** 
-Pemerintah, dalam hal ini Kementerian Pendididkan dan Kebudayaan beijtihad memperbaiki sistem Penerimaan Peserta Didik Baru (PPDB) dengan menerbitkan Peraturan Menteri Pendidikan dan Kebudayaan (PERMENDIKBUD) PERMENDIKBUD NOMOR 1 TAHUN 2021. Secara substantif regulasi ini membagi cara penerimaan peserta baru dalam sebuah satuan pendidikan kepada 2 (dua) mekanisme. Kedua mekanisme tersebut meliputi: mekanisme dalam jaringan (daring) dan yang kedua mekanisme luar jaringan (luring).1 Regulasi tersebut mengamanatkan kepada pemerintah daerah, dalam hal ini Bupati/wali kota, untuk menerbitkan penetapan zonasi dalam penerimaan peserta didik baru di sebuah satuan pendidikan.
-
 ### **Bagaimana Mengatasinya?**
 Menanggapi fenomena pengangguran intelektual diatas, menjadi pekerjaan rumah yang harus diselesaikan baik oleh pemerintah maupun berbagai komponen pendidikan. Karena pendidikan diharapkan dapat menciptakan kehidupan yang lebih baik bagi para lulusannya. 
 
@@ -58,9 +60,31 @@ Pendidikan dengan berbagai muatan kurikulum didalamnya hendaknya dapat mendorong
 
 Anak didik sejak usia dini harus dipahami sebagai manusia yang memiliki berbagai keunikan, minat dan bakat yang harus dikembangkan. Pendidikan tidak hanya dipahami sebagai transfer pengetahuan dari guru kepada anak didik. Guru sebagai fasilitator diharapkan dapat menunbuhkan serta mamacu kemauan anak didik untuk lebih aktif dan kreatif menemukan berbagai hal baru
 
-Sumber
-Mastuti, Fauziyah; Yuwono, Teguh. Pendidikan dan Pengangguran Intelektual. 2009. diakses 2/11/2023 pada : [Pendidikan dan Pengangguran Intelektual](http://eprints.undip.ac.id/19636/1/Artikel_Pendidikan.pdf)
-Mohammad Syarif Sumantri, ; Durotul yatimah, ; Arryta Canty (Editor), ; Imelda Paulina Soko (Editor)._Pengantar Pendidikan : 1-9 / MKDK4001 / 3 SKS / Mohammad Syarif Sumantri, Durotul Yatimah, Arryta Canty (Editor), Imelda Paulina Soko (Editor)_.2021
+### **Mengapa Sekolah Kekurangan Siswa** 
+Salah satu faktor utama yang disorot adalah perubahan dalam angka kelahiran sebagai dampak dari program Keluarga Berencana (KB). Meskipun program ini merupakan pencapaian positif dalam mengendalikan pertumbuhan populasi, namun dampak sampingannya adalah berkurangnya jumlah anak yang masuk ke sekolah. Hal ini menjadi tantangan utama yang muncul akibat perubahan dalam struktur populasi.
+
+Masalah lain yang turut memengaruhi adalah kurangnya penyesuaian sistem pendidikan. Khususnya di sekolah negeri, sistem pendidikan mungkin belum sempat menyesuaikan diri dengan perubahan dalam angka kelahiran dan distribusi populasi. Akibatnya, terjadi ketidakseimbangan antara kekurangan murid di beberapa sekolah dan kepadatan murid di sekolah lain.
+
+### **Bagaimana Mengatasinya?**
+
+Untuk mengatasi masalah tersebut, sejumlah langkah dapat diambil:
+
+Pertama, diperlukan pemetaan ulang terhadap distribusi sekolah di berbagai wilayah. Pemerintah perlu memastikan bahwa jumlah sekolah sesuai dengan jumlah penduduk usia sekolah di masing-masing wilayah. Sekolah yang kekurangan murid perlu ditutup atau digabung dengan sekolah lain yang lebih ramai.
+
+Kedua, sistem pendidikan negeri harus menjadi lebih fleksibel dan mampu berinovasi. Ini meliputi peningkatan kualitas pengajaran, penyediaan fasilitas yang memadai, serta respons yang lebih cepat terhadap perubahan dalam kebutuhan pendidikan.
+
+Ketiga, sekolah swasta dapat menjadi mitra penting dalam menyeimbangkan distribusi murid. Pemerintah dapat bekerja sama dengan sekolah swasta untuk memastikan kualitas pendidikan yang baik dan mengatasi kekurangan murid di sekolah negeri.
+
+Keempat, diperlukan inovasi dalam kurikulum dan metode pengajaran. Inovasi ini mencakup pendekatan bilingual, pembelajaran dua arah, serta pengembangan pendidikan agama atau aspek-aspek lain yang sesuai dengan kebutuhan lokal.
+
+Terakhir, pemerintah harus memastikan bahwa kualitas pendidikan di seluruh negeri dipertahankan dan ditingkatkan, terutama dalam hal kualitas pengajar dan fasilitas. Upaya ini bertujuan untuk mengatasi persepsi bahwa sekolah negeri lebih rendah kualitasnya dibandingkan dengan sekolah swasta.
+
+Dalam mengatasi masalah ini, kolaborasi antara pemerintah, sekolah negeri, dan sekolah swasta sangat penting. Pemerintah harus menjadi motor utama dalam upaya memperbaiki sistem pendidikan dan memastikan bahwa setiap anak mendapatkan pendidikan yang layak, tanpa terlalu terpengaruh oleh fluktuasi angka kelahiran.
+
+Sumber :
+- Mastuti, Fauziyah; Yuwono, Teguh. Pendidikan dan Pengangguran Intelektual. 2009. diakses 2/11/2023 pada : [Pendidikan dan Pengangguran Intelektual](http://eprints.undip.ac.id/19636/1/Artikel_Pendidikan.pdf)
+- Mohammad Syarif Sumantri, ; Durotul yatimah, ; Arryta Canty (Editor), ; Imelda Paulina Soko (Editor)._Pengantar Pendidikan : 1-9 / MKDK4001 / 3 SKS / Mohammad Syarif Sumantri, Durotul Yatimah, Arryta Canty (Editor), Imelda Paulina Soko (Editor)_.2021
+- Dewi, E. K. (2022, Juli 30 [Sekolah Kekurangan Murid, Apa yang Salah? (mojok.co)](https://mojok.co/terminal/fenomena-sekolah-kekurangan-murid-apa-yang-salah-dari-sistem-pendidikan-kita/). Mojok.co. https://mojok.co/terminal/fenomena-sekolah-kekurangan-murid-apa-yang-salah-dari-sistem-pendidikan-kita/
 # Quiz
 
 

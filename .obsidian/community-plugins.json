@@ -2,5 +2,7 @@
   "yet-another-obsidian-synchronizer",
   "obsidian-style-settings",
   "cmdr",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-toggle-case",
+  "templater-obsidian"
 ]

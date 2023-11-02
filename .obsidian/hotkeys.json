@@ -1,1 +1,18 @@
-{}
+{
+  "obsidian-toggle-case:toggle-case": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "["
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "\\"
+    }
+  ]
+}
