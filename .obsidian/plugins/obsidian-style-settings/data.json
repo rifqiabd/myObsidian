@@ -2,5 +2,6 @@
   "title@@hide-sidebar-header": false,
   "title@@button-shapes-mobile": true,
   "title@@fab-enabled-mobile": true,
-  "title@@hide-buttons-mobile": false
+  "title@@hide-buttons-mobile": true,
+  "title@@vibrant": false
 }

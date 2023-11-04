@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ebdfe83992a01b3b",
+        "id": "cf89203b0367bb22",
         "type": "tabs",
         "children": [
           {
-            "id": "f0c993fff978ad33",
+            "id": "fa391bed3d5b6cd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Listening I/Sesi 4 Reading for the Gist.md",
+                "file": "Writing I/Week 4 - Report Texts.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d847501f1b8c783b",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Listening I/Sesi 4 Reading for the Gist.md",
+                "file": "Writing I/Week 4 - Report Texts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Listening I/Sesi 4 Reading for the Gist.md",
+                "file": "Writing I/Week 4 - Report Texts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Listening I/Sesi 4 Reading for the Gist.md"
+                "file": "Writing I/Week 4 - Report Texts.md"
               }
             }
           },
@@ -158,11 +157,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f0c993fff978ad33",
+  "active": "fa391bed3d5b6cd1",
   "lastOpenFiles": [
+    "Reading I/Sesi 4 Reading for the Gist.md",
+    "Writing I/Week 4 - Report Texts.md",
+    "Listening I/Sesi 4 Listening To Telephone Conversations.md",
+    "Listening I/Sesi 4 Reading for the Gist.md",
     "Pengantar Pendidikan/Sesi 4 Lingkungan Pendidikan.md",
     "Template/TOC Cr0kz.md",
-    "Listening I/Sesi 4 Reading for the Gist.md",
     "Template/Table of Content.md",
     "Template/Simple Timer.md",
     "Template/Insert Callout Template.md",

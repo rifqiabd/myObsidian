@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ffba771e9dd7583e",
+        "id": "8b42b52fb3bdd1c9",
         "type": "tabs",
         "children": [
           {
-            "id": "c09c3742e09fa6b4",
+            "id": "abce31203f21b01b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Structure I/Sesi 4 Auxiliaries (Modal Verbs), and Agreement (Module 6, and 7).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -24,16 +28,6 @@
     "id": "4543c024fa245252",
     "type": "mobile-drawer",
     "children": [
-      {
-        "id": "8f71e2050b0cedd8",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {
-            "sortOrder": "alphabetical"
-          }
-        }
-      },
       {
         "id": "af5a4a49f7c766fe",
         "type": "leaf",
@@ -67,9 +61,19 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "749a36c38f8b70fd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTimeReverse"
+          }
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "right": {
     "id": "b23b1ba07ae41631",
@@ -81,9 +85,10 @@
         "state": {
           "type": "backlink",
           "state": {
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
+            "file": "Structure I/Sesi 4 Auxiliaries (Modal Verbs), and Agreement (Module 6, and 7).md",
+            "collapseAll": true,
+            "extraContext": true,
+            "sortOrder": "byCreatedTimeReverse",
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": false,
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Structure I/Sesi 4 Auxiliaries (Modal Verbs), and Agreement (Module 6, and 7).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,11 +113,13 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Structure I/Sesi 4 Auxiliaries (Modal Verbs), and Agreement (Module 6, and 7).md"
+          }
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -124,9 +132,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c09c3742e09fa6b4",
+  "active": "abce31203f21b01b",
   "lastOpenFiles": [
-    "Listening I/Sesi 4 Reading for the Gist.md",
+    "Listening I/Sesi 4 Listening To Telephone Conversations.md",
+    "Structure I/Sesi 4 Auxiliaries (Modal Verbs), and Agreement (Module 6, and 7).md",
+    "Structure I",
+    "Maqoshid/Premis & content/Kehilangan.md",
+    "Maqoshid/Baqarah.jpeg",
+    "Kuliah",
+    "Maqoshid/Premis & content",
+    "Writing I/Week 4 - Report Texts.md",
+    "Writing I/Screenshot_20231103-110107.jpg",
+    "Todos.md",
+    "Writing I",
+    "images.jpeg",
+    "Maqoshid/Self-titled.md",
+    "Listening I",
+    "Reading I/Sesi 4 Reading for the Gist.md",
+    "Reading List.md",
     "Pengantar Pendidikan/Sesi 4 Lingkungan Pendidikan.md"
   ]
 }

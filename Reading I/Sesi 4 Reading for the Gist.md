@@ -1,3 +1,4 @@
+
 >[!SUMMARY]+ Table of Contents
 >- [Study Outline](Sesi%204%20Reading%20for%20the%20Gist.md#Study%20Outline)
 >    - [Topic-Nouns](Sesi%204%20Reading%20for%20the%20Gist.md#Topic-Nouns)
@@ -25,3 +26,20 @@ Flemming explains topic more clearly: "Sometimes the topic of a paragraph can be
 
 ## Supporting Noun
 Supporting nouns atau supporting details adalah kata benda yang mendukung topic. Supporting nouns berupa penjelasan, ilustrasi, atau contoh dari topic tersebut. Kata benda ini bisa berupa frasa tetapi kadang-kadang juga berupa kalimat
+
+# Diskusi
+>[!assignment]
+Identify the topic sentence of the following paragraph and list the supporting details!
+
+We had a terrible storm last night. The winds blew up to fifty miles an hour, and it rained very hard. Eucalyptus tress by the river blew over, and one tree hit a power line and clacked out the area for five hours. Downtown, the main street was flooded, and cars were left stranded in bumper-deep water. Before morning, the river flooded its banks, and people living nearby were forced to flee their homes with whatever belongings they could gather. It was the worst storm in the country since 1958.
+
+## My Answer
+### Topic Noun
+A Terrible Storm Last Night
+
+### Supporting Noun
+1. The winds blew up
+2. Eucalyptus tress by the river blew over, 
+3. Downtown, the main street was flooded
+4. Before morning, the river flooded its banks
+5. It was the worst storm in the country since 1958.
