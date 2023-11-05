@@ -16,16 +16,17 @@ Report Text
 
 
 # Discussion
+
 > [!question] 
 > What is report text? explain clearly about it, including the general structure of report text!
 
-**Report Text definition** 
+## Report Text definition
 Reports are factual texts that present information clearly and succinty. The stages of a Report are context-specific and relate very closely to it's purpose (Education Department of Western Australia, 1997:85)
 
-**Other definition** 
 Reports are also described as "factual texts which describe the way things are. They organize information about social, synthetic or naturan phenomena, typically by classifying them un terms of classes and subclasses, whole and parts, and/or in terms of their attributes. In other words, Report state how a thing is classified - how it is defined and it's distinguishing characteristics" (Gerrot, 1995:2)
 
->[!references]-
-> ![[Screenshot_20231103-110107.jpg]]
+So, the purpose of the Information Report is "to document, organize and store factual information on a topic" (Derewianka, 1990:51)
 
-Jika di simpulkan, report text adalah sebuah teks yang mendeskripsikan kejadian sesuatu (entah itu benda) apakah 
+## Schematic Structure of Report Texts
+
+![[report-text.webp]]
