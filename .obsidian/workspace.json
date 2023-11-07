@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cf89203b0367bb22",
+        "id": "86ae9a5f46b02aa3",
         "type": "tabs",
         "children": [
           {
-            "id": "fa391bed3d5b6cd1",
+            "id": "f99ffa11f515bb32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing I/Week 4 - Report Texts.md",
+                "file": "Pengantar Pendidikan/Sesi 5 Antropologi Pendidikan.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing I/Week 4 - Report Texts.md",
+                "file": "Pengantar Pendidikan/Sesi 5 Antropologi Pendidikan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing I/Week 4 - Report Texts.md",
+                "file": "Pengantar Pendidikan/Sesi 5 Antropologi Pendidikan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing I/Week 4 - Report Texts.md"
+                "file": "Pengantar Pendidikan/Sesi 5 Antropologi Pendidikan.md"
               }
             }
           },
@@ -136,9 +136,17 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "8d21f8793779ba49",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -155,15 +163,22 @@
       "command-palette:Open command palette": false,
       "yet-another-obsidian-synchronizer:YAOS": false,
       "templater-obsidian:Templater": false,
-      "obsidian-autoscroll:Auto Scroller (speed 0.2)": false
+      "obsidian-autoscroll:Auto Scroller (speed 0.2)": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa391bed3d5b6cd1",
+  "active": "f99ffa11f515bb32",
   "lastOpenFiles": [
+    "Pengantar Pendidikan/Sesi 5 Antropologi Pendidikan.md",
+    "Structure I/Sesi 5 PRESENT AND PAST TENSES (Modul 8, dan 9).md",
+    "Pendidikan Agama Islam/Sesi 5 Agama sebagai Sumber Moral dan Akhlak Mulia dalam Kehidupan.md",
+    "Pendidikan Agama Islam",
+    "Structure I/Sesi 4 Auxiliaries (Modal Verbs), and Agreement (Module 6, and 7).md",
+    "Writing I/Week 4 - Report Texts.md",
+    "Pasted image 20231105233328.jpg",
     "report-text.webp",
     "Maqoshid/Premis & content/Pressure.md",
     "Maqoshid/Premis & content/Kehilangan.md",
-    "Writing I/Week 4 - Report Texts.md",
     "Listening I/Sesi 4 Listening To Telephone Conversations.md",
     "Reading I/Sesi 4 Reading for the Gist.md",
     "Listening I/Sesi 4 Reading for the Gist.md",
@@ -172,7 +187,6 @@
     "Template/Table of Content.md",
     "Template/Simple Timer.md",
     "Template/Insert Callout Template.md",
-    "Untitled",
     "Listening I",
     "Reading List.md",
     "Template",
