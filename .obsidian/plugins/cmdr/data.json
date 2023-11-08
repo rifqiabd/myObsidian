@@ -8,6 +8,12 @@
       "icon": "type",
       "name": "Toggle Case: Toggle Case",
       "mode": "any"
+    },
+    {
+      "id": "language-translator:language-translator-editor-command",
+      "icon": "lucide-languages",
+      "name": "Language Translator: Insert translation",
+      "mode": "any"
     }
   ],
   "fileMenu": [],

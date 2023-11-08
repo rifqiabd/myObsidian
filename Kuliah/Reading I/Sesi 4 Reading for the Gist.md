@@ -2,7 +2,15 @@
 >[!SUMMARY]+ Table of Contents
 >- [Study Outline](Sesi%204%20Reading%20for%20the%20Gist.md#Study%20Outline)
 >    - [Topic-Nouns](Sesi%204%20Reading%20for%20the%20Gist.md#Topic-Nouns)
+>    - [Supporting Noun](Sesi%204%20Reading%20for%20the%20Gist.md#Supporting%20Noun)
+>- [Diskusi](Sesi%204%20Reading%20for%20the%20Gist.md#Diskusi)
+>    - [My Answer](Sesi%204%20Reading%20for%20the%20Gist.md#My%20Answer)
+>        - [Topic Noun](Sesi%204%20Reading%20for%20the%20Gist.md#Topic%20Noun)
+>        - [Supporting Noun](Sesi%204%20Reading%20for%20the%20Gist.md#Supporting%20Noun)
 
+%%ENDTOC%%
+
+#Reading_I 
 
 # Study Outline
 - [x] menentukan topic nouns
