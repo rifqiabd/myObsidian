@@ -3,5 +3,8 @@
   "title@@button-shapes-mobile": true,
   "title@@fab-enabled-mobile": true,
   "title@@hide-buttons-mobile": true,
-  "title@@vibrant": false
+  "title@@vibrant": false,
+  "minimal-advanced@@styled-scrollbars": true,
+  "minimal-style@@maximize-tables-off": "maximize-tables-auto",
+  "minimal-style@@table-numbers": false
 }

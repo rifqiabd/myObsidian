@@ -4,7 +4,7 @@
       "modifiers": [
         "Alt"
       ],
-      "key": "["
+      "key": "'"
     }
   ],
   "editor:insert-wikilink": [
@@ -33,6 +33,40 @@
         "Shift"
       ],
       "key": "Y"
+    }
+  ],
+  "templater-obsidian:etc/Template/TOC Cr0kz.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "["
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "Q"
+    }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "L"
     }
   ]
 }

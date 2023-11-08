@@ -1,14 +1,9 @@
-# Outline
-- [ ] Manusia dan Kebudayaan
-- [ ] Menjelaskan hakikat kebudayaan
-
 # Materi
-## Manusia dan Kebudayaan
-Outline
-- [ ] Manusia dan Kebudayaan
-- [ ] Kebudayaan dan Kesenian
-- [ ] Konsep Kebudayaan
-- [ ] Perkembangan Budaya dari Masa ke Masa
-- [ ] Budaya Gllobal, Nasional, dan Lokal
-- [ ] Kebudaaan dan Kepribadian
-- [ ] Kebudayaan dan Pendidikan
+- [ ] [[Modul 6 Antropologi Pendidikan#Manusia dan Kebudayaan]]
+- [ ] [[Modul 6 Antropologi Pendidikan#Hakikat Kebudayaan]]
+# Diskusi
+Perubahan pada masyarakat dapat selalu terjadi sebagai sesuatu yang bersifat alamiah atau sebagai sesuatu yang direncanakan.
+
+Jelaskan maksud pernyataan tersebut dan berikan contoh perubahan yang bersifat alamiah dan perubahan yang direncanakan.
+
+

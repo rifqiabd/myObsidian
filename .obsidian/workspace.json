@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "86ae9a5f46b02aa3",
+        "id": "87872b8a1889ebe9",
         "type": "tabs",
         "children": [
           {
-            "id": "f99ffa11f515bb32",
+            "id": "89efac1b249f8efa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pengantar Pendidikan/Sesi 5 Antropologi Pendidikan.md",
+                "file": "Teaching/Jadwal Mengajar.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214
+    "width": 259
   },
   "right": {
     "id": "d847501f1b8c783b",
@@ -85,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pengantar Pendidikan/Sesi 5 Antropologi Pendidikan.md",
+                "file": "Teaching/Jadwal Mengajar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pengantar Pendidikan/Sesi 5 Antropologi Pendidikan.md",
+                "file": "Teaching/Jadwal Mengajar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pengantar Pendidikan/Sesi 5 Antropologi Pendidikan.md"
+                "file": "Teaching/Jadwal Mengajar.md"
               }
             }
           },
@@ -144,14 +144,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "5a11fdad1afa164d",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,19 +170,40 @@
       "command-palette:Open command palette": false,
       "yet-another-obsidian-synchronizer:YAOS": false,
       "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-autoscroll:Auto Scroller (speed 0.2)": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f99ffa11f515bb32",
+  "active": "eef97604d040f56b",
   "lastOpenFiles": [
+    "Pasted image 20231105233328.jpg",
+    "Teaching/Jadwal Mengajar.md",
+    "Teaching/Bahasa Inggris",
+    "Kuliah/Pengantar Pendidikan/Mod/Modul 6 Antropologi Pendidikan.md",
+    "Kuliah/Pengantar Pendidikan/Mod/Cat -  Modul 6 Pengantar Pendidikan.md",
+    "Teaching/Bahasa Inggris/IX",
+    "Teaching/Bahasa Inggris/VIII",
+    "Teaching/Bahasa Inggris/VII",
+    "Teaching",
+    "Kuliah/Sociolinguistics",
+    "PKM/Cara Merangkum Buku di PC.md",
+    "PKM",
+    "Kuliah/Pengantar Pendidikan/Sesi 5 Antropologi Pendidikan.md",
+    "Kuliah/Pengantar Pendidikan/Mod",
+    "Kuliah/Pengantar Pendidikan/Untitled.md",
+    "Kuliah/Pengantar Pendidikan/Sesi 4 Lingkungan Pendidikan.md",
+    "Kuliah/Pendidikan Agama Islam/Sesi 5 Agama sebagai Sumber Moral dan Akhlak Mulia dalam Kehidupan.md",
+    "Modul.md",
+    "[Modul.md",
+    "Kuliah/Untitled.md",
     "Pengantar Pendidikan/Sesi 5 Antropologi Pendidikan.md",
     "Structure I/Sesi 5 PRESENT AND PAST TENSES (Modul 8, dan 9).md",
     "Pendidikan Agama Islam/Sesi 5 Agama sebagai Sumber Moral dan Akhlak Mulia dalam Kehidupan.md",
     "Pendidikan Agama Islam",
     "Structure I/Sesi 4 Auxiliaries (Modal Verbs), and Agreement (Module 6, and 7).md",
     "Writing I/Week 4 - Report Texts.md",
-    "Pasted image 20231105233328.jpg",
     "report-text.webp",
     "Maqoshid/Premis & content/Pressure.md",
     "Maqoshid/Premis & content/Kehilangan.md",
@@ -186,10 +214,6 @@
     "Template/TOC Cr0kz.md",
     "Template/Table of Content.md",
     "Template/Simple Timer.md",
-    "Template/Insert Callout Template.md",
-    "Listening I",
-    "Reading List.md",
-    "Template",
-    "Pengantar Pendidikan"
+    "Listening I"
   ]
 }
