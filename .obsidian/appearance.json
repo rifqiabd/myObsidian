@@ -1,5 +1,6 @@
 {
-  "accentColor": "#398112",
-  "theme": "system",
-  "cssTheme": "Material Flat"
+  "accentColor": "#304982",
+  "theme": "obsidian",
+  "cssTheme": "Material Flat",
+  "translucency": false
 }

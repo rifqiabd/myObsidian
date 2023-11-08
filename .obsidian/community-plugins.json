@@ -1,5 +1,4 @@
 [
-  "yet-another-obsidian-synchronizer",
   "obsidian-style-settings",
   "cmdr",
   "obsidian-git",
@@ -10,5 +9,8 @@
   "sheets",
   "mermaid-themes",
   "mermaid-tools",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "obsidian-kanban",
+  "calendar",
+  "recent-files-obsidian"
 ]

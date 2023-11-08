@@ -1,5 +1,5 @@
 >[!SUMMARY]+ Table of Contents
->- [Manusia dan Kebudayaan](Modul%206%20Antropologi%20Pendidikan.md#Manusia%20dan%20Kebudayaan)
+>- [KB1 Manusia dan Kebudayaan](Modul%206%20Antropologi%20Pendidikan.md#KB1%20Manusia%20dan%20Kebudayaan)
 >    - [Study Outline](Modul%206%20Antropologi%20Pendidikan.md#Study%20Outline)
 >        - [Kajian Kebudayaan dan Kesenian](Modul%206%20Antropologi%20Pendidikan.md#Kajian%20Kebudayaan%20dan%20Kesenian)
 >        - [Kajian Manusia dan Kebudayaan](Modul%206%20Antropologi%20Pendidikan.md#Kajian%20Manusia%20dan%20Kebudayaan)
@@ -7,20 +7,23 @@
 >        - [Kajian Budaya Global, Nasional, dan Lokal](Modul%206%20Antropologi%20Pendidikan.md#Kajian%20Budaya%20Global,%20Nasional,%20dan%20Lokal)
 >        - [Kajian Kebudayaan dan Kepribadian](Modul%206%20Antropologi%20Pendidikan.md#Kajian%20Kebudayaan%20dan%20Kepribadian)
 >    - [Goal](Modul%206%20Antropologi%20Pendidikan.md#Goal)
->- [Manusia dan Kebudayaan](Modul%206%20Antropologi%20Pendidikan.md#Manusia%20dan%20Kebudayaan)
->    - [Isyarat](Modul%206%20Antropologi%20Pendidikan.md#Isyarat)
->    - [Pikiran](Modul%206%20Antropologi%20Pendidikan.md#Pikiran)
->    - [Kebudayaan](Modul%206%20Antropologi%20Pendidikan.md#Kebudayaan)
->- [Kebudayaan dan Kesenian](Modul%206%20Antropologi%20Pendidikan.md#Kebudayaan%20dan%20Kesenian)
->    - [Definisi Kebudayaan](Modul%206%20Antropologi%20Pendidikan.md#Definisi%20Kebudayaan)
->    - [Unsur-unsur Universal Kebudayaan](Modul%206%20Antropologi%20Pendidikan.md#Unsur-unsur%20Universal%20Kebudayaan)
->- [Hakikat Kebudayaan](Modul%206%20Antropologi%20Pendidikan.md#Hakikat%20Kebudayaan)
+>    - [Manusia dan Kebudayaan](Modul%206%20Antropologi%20Pendidikan.md#Manusia%20dan%20Kebudayaan)
+>        - [Isyarat](Modul%206%20Antropologi%20Pendidikan.md#Isyarat)
+>        - [Pikiran](Modul%206%20Antropologi%20Pendidikan.md#Pikiran)
+>        - [Kebudayaan](Modul%206%20Antropologi%20Pendidikan.md#Kebudayaan)
+>    - [Kebudayaan dan Kesenian](Modul%206%20Antropologi%20Pendidikan.md#Kebudayaan%20dan%20Kesenian)
+>        - [Definisi Kebudayaan](Modul%206%20Antropologi%20Pendidikan.md#Definisi%20Kebudayaan)
+>        - [Unsur-unsur Universal Kebudayaan](Modul%206%20Antropologi%20Pendidikan.md#Unsur-unsur%20Universal%20Kebudayaan)
+>        - [Sebab Munculnya Kebudayaan](Modul%206%20Antropologi%20Pendidikan.md#Sebab%20Munculnya%20Kebudayaan)
+>        - [Jenis jenis Kebudayaan](Modul%206%20Antropologi%20Pendidikan.md#Jenis%20jenis%20Kebudayaan)
+>        - [Wujud Kebudayaan](Modul%206%20Antropologi%20Pendidikan.md#Wujud%20Kebudayaan)
+>- [KB2 Hakikat Kebudayaan](Modul%206%20Antropologi%20Pendidikan.md#KB2%20Hakikat%20Kebudayaan)
 
 %%ENDTOC%%
 
 [[Sesi 5 Antropologi Pendidikan]]
 #Pengantar_Pendidikan 
-#  KB1 Manusia dan Kebudayaan
+# KB1 Manusia dan Kebudayaan
 ## Study Outline
 Ada 6 permasalahan pokok dipelajari
 1. Manusia dan Kebudayaan, 
@@ -30,19 +33,19 @@ Ada 6 permasalahan pokok dipelajari
 5. Budaya Global, Nasional, dan Lokal, Kebudayaan dan Kepribadian, serta 
 6. Kebudayaan dan Pendidikan
 
-### Kajian Kebudayaan dan Kesenian
+**Kajian Kebudayaan dan Kesenian**
 Membahas bahwa salah satu bentuk **hasil budaya masyarakat** adalah **kesenian**, yaitu pikiran, karya, dan hasil karya manusia yang memenuhi hasratnya akan keindahan. **Seni** adalah salah satu **bagian penting dari kebudayaan**, **kesenian** adalah **ungkapan kreativitas dari kebudayaan itu sendiri**
 
-### Kajian Manusia dan Kebudayaan
+**Kajian Manusia dan Kebudayaan**
 membahas bahwa manusia selalu berinteraksi dengan manusia lain dan lingkungan alam memenuhi kebutuhan hidupnya. Manusia juga berpikir dan mengemukakan gagasan dan ide-ide serta tindakan yang berkaitan dengan pranata sosial, yang selanjutnya direspon oleh masyarakat demi kebutuhan kehidupan kolektif dan akhirnya menjadi budaya masyarakat. Konsep kebudayaan meliputi definisi, unsur-unsur, sebab-sebab munculnya kebudayaan, jenis, wujud, hubungan antara wujud-wujud kebudayaan, karakteristik, fungsi kebudayaan, proses pembudayaan
 
-### Kajian Perkembangan Budaya dari Masa ke Masa
+**Kajian Perkembangan Budaya dari Masa ke Masa**
 Meliputi evolusionisme dan difusionisme
 
-### Kajian Budaya Global, Nasional, dan Lokal
+**Kajian Budaya Global, Nasional, dan Lokal**
 meliputi karakteristik budaya global, karakteristik budaya nasional, dan karakteristik budaya lokal.
 
-### Kajian Kebudayaan dan Kepribadian
+**Kajian Kebudayaan dan Kepribadian**
 meliputi pengertian kepribadian dan kepribadian nasional, cara kebudayaan mempengaruhi kepribadian, dan hubungan antara kebudayaan dengan kepribadian. Adapun kajian kebudayaan dan pendidikan meliputi konsep pranata pendidikan, hubungan komplementer antara kebudayaan dan pendidikan, fungsi-fungsi pendidikan dalam rangka konservasi dan inovasi kebudayaan, dan cultural lag.
 
 ## Goal
@@ -54,7 +57,7 @@ Dapat menjelaskan
 ## Manusia dan Kebudayaan
 Pranata sosial merupakan keseluruhan tindakan komunitas yang tertuju pada individu berdasarkan keadaan tertentu menurut cara yang sama, berdasarkan keadaan itu pula terdapat respon yang sama di pihak komunitas
 
-Antropologi adalah ilmu yang mempelajari manusia dan kebudayaan secara menyeluruh,
+Antropologi adalah ilmu yang mempelajari manusia dan kebudayaan secara menyeluruh.
 
 Teori interaksi simbolik mengaitkan kemampuan berpikir manusia, tindakan, sikap-isyarat (gesture), penggunaan simbol-simbol dalam terjadinya interaksi antara individu-individu di masyarakat (Goodman dan Ritzer, 2005)
 
@@ -108,7 +111,7 @@ padahal manusia sehari2 hanya bercakap, merenung, memaknai.
 Kebudayaan tidak dapat diibaratkan sama sebagai peradaban, karena peradaban bergerak maju dengan satu logika sejarah, sementara kebudayaan memiliki logika kemajuannya masing masing tergantung aktivitas manusia
 
 ## Kebudayaan dan Kesenian
-Budaya berasal dari kata Sansekerta
+Menurut Koentjaraningrat Budaya berasal dari kata Sansekerta
 Budhayah --> budhi (jamak) --> "budi" atau "akal"
 **berarti "hal-hal yang bersangkutan dengan akal"**
 
@@ -126,9 +129,11 @@ Menurut Sedyawati, sifat kegiatan seni itu pada masyarakat/manusia merupakan keg
 > [!quote]
 > Koentjaraningrat mengutip pendapat dua ahli antropologi, dalam buku "ternyata ada 176 buah definisi mengenai kebudayaan yang pernah diterbitkan"
 
-Sir Edward Burnett Tylor "kebudayaan adalah 'mencakup keseluruhan yang meliputi pengetahuan, kepercayaan, hukum, moral, kebiasaan, dan lain-lain kecakapan dan kebiasaan yang diperoleh manusia sebagai anggota masyarakat'." (Haviland, 1985
+Sir Edward Burnett Tylor "kebudayaan adalah 'mencakup keseluruhan yang meliputi pengetahuan, kepercayaan, hukum, moral, kebiasaan, dan lain-lain kecakapan dan kebiasaan yang diperoleh manusia sebagai anggota masyarakat'." (Haviland, 1985)
 
 Kebudayaan terdiri atas berbagai pola, bertingkah laku mantap, pikiran, perasaan, dan reaksi yang diperoleh dan terutama diturunkan oleh simbol-simbol yang menyusun pencapaiannya secara tersendiri dari kelompok-kelompok manusia, termasuk di dalamnya perwujudan benda-benda materi; pusat esensi kebudayaan terdiri atas tradisi, cita-cita atau paham, dan terutama keterikatan terhadap nilai-nilai.
+
+**Koentjaraningrat**: kebudayaan adalah seluruh total dari pikiran, karya, dan hasil karya manusia yang tidak berakar kepada nalurinya karena itu hanya bisa dicetuskan oleh manusia sesudah suatu proses belajar
 
 Orang memelihara kebudayaan untuk menangani masalah dan persoalan yang mereka hadapi. Agar lestari, kebudayaan harus dapat memenuhi kebutuhan-kebutuhan pokok dari orang-orang yang hidup menurut peraturan-peraturannya, dan mengatur agar anggota masyarakat dapat hidup secara teratur. Dalam hal ini, kebudayaan harus menemukan keseimbangan antara kepentingan pribadi masing-masing orang dan kebutuhan masyarakat sebagai suatu keseluruhan. Kebudayaan harus memiliki kemampuan untuk berubah agar dapat menyesuaikan diri dengan keadaan-keadaan baru atau mengubah persepsinya tentang keadaan yang ada sehingga kebudayaan dapat memenuhi kebutuhan hidup masyarakatnya, sesuai dengan tujuan masyarakat menciptakan kebudayaan agar mendapatkan kesejahteraan hidupnya
 
@@ -153,6 +158,41 @@ Unsur Universal kebudayaan indonesia:
 7. Sistem teknologi dan peralatan
 Sistematika tata urutan menggambarkan kontinum dari yang paling sukar berubah ke yang paling mudah berubah
 
+**Peter L. Berger (dalam Evers, 1998)** mengatakan bahwa menjadi manusia berarti hidup dalam dunia, yang sekaligus berarti hidup dalam realitas yang teratur dan memberi makna bagi kehidupan
 
+### Sebab Munculnya Kebudayaan
+1. anggapan bahwa adanya hukum pemikiran atau perbuatan manusia yang muncul karena adanya tindakan besar menuju kepada perbuatan yang sama dan penyebabnya sama
+2. anggapan bahwa tingkat kebudayaan atau peradaban muncul sebagai akibat taraf perkembangan dan hasil evaluasi masing-masing proses sejarahnya
 
+### Jenis jenis Kebudayaan
+Hasil kebudayaan secara garis besar dibagi dua jenis:
+1. Kebudayaan Material (Material Culture/Kebendaan)
+2. Kebudayaan Non Material (Rohaniah) seperti :
+	- Hasil Cipta Manusia (Filsafat serta Ilmu Pengetahuan, baik yang berwujud teori maupun applied sciences)
+	- Hasil Rasa Manusia (berwujud nilai-nilai dan macam-macam norma 'agama, religi, ideologi, dll')
+### Wujud Kebudayaan
+Pakar sosiologi **Talcott Parsons** maupun pakar antropologi **A.L Kroeber** pernah menganjurkan untuk membedakan antara wujud kebudayaan sebagai suatu sistem dari gagasan-gagasan serta konsep-konsep dan wujud kebudayaan sebagai rangkaian tindakan serta aktivitas manusia yang berpola
+
+J. Honingman membuat perbedaan di antara tiga gejala kebudayaan, yakni (1) ideas, (2) activities, dan (3) artifacts
+1. Ideas (Komplek gagasan konsep dan pikiran manusia); Wujud ini disebut sistem budaya, sifatnya abstrak, tidak dapat dilihat, dan berpusat pada pikiran-pikiran manusia yang menganutnya
+2. Activities, berupa aktivitas manusia yang saling berinteraksi, bersifat konkret, dapat diamati atau diobservasi. Wujud ini sering disebut sistem sosial.
+3. Artifact, (Wujud sebagai benda); aktivitas manusia yang saling berinteraksi tidak terlepas dari penggunaan peralatan sebagai hasil karya manusia untuk mencapai tujuannya.
+
+Koentjaraningrat (2005) berpendapat bahwa kebudayaan dibeda-bedakan sesuai dengan wujudnya, yaitu:
+1. Kebudayaan Fisik
+2. Kebudayaan Sistem Sosial
+3. Kebudayaan sebagai sistem budaya
+4. Kebudayaan sebagai sistem ideal
+
+### Hubungan antara Wujud-wujud Kebudayaan
+Kebudayaan sistem ideal memberi arah kepada perbuatan, cipta, karsa, dan karya manusia. Berbagi ide, gagasan, yang berpusat pada pikiran-pikiran manusia penganut kebudayaan maupun aktivitas manusia menghasilkan benda-benda kebudayaan fisik yang bersifat konkret, bisa diraba, dan difoto. Sebaliknya, kebudayaan yang bersifat fisik (artifacts) itu membentuk suatu lingkungan hidup tertentu yang adakalanya makin lama makin menjauhkan manusia dari lingkungan alamiahnya sehingga mempengaruhi pula aktivitas-aktivitasnya, pola-pola perbuatannya, bahkan juga mempengaruhi cara-cara berpikirnya
+
+## Latihan
+
+---
 # KB2 Hakikat Kebudayaan
+## Karakteristik - Karakteristik Pokok Kebudayaan
+1. Kebudayaan adalah milik Bersama
+2. Kebudayaan adalah hasil belajar
+3. Kebudayaan didasarkan pada Lambang
+4. 

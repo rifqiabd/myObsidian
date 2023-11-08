@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "87872b8a1889ebe9",
+        "id": "e716033c7ab8ff1a",
         "type": "tabs",
         "children": [
           {
-            "id": "89efac1b249f8efa",
+            "id": "268217fb7b15a3a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teaching/Jadwal Mengajar.md",
+                "file": "Sesi 5 Organizational Patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,6 +58,14 @@
             }
           },
           {
+            "id": "98a259eb93a911ab",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
             "id": "57b257dfded6ca5b",
             "type": "leaf",
             "state": {
@@ -69,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259
+    "width": 208,
+    "collapsed": true
   },
   "right": {
     "id": "d847501f1b8c783b",
@@ -80,12 +89,41 @@
         "type": "tabs",
         "children": [
           {
+            "id": "4179454e748da8c7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2737a4b658ca0d42",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sesi 5 Organizational Patterns.md"
+              }
+            }
+          },
+          {
+            "id": "f3ebb4e8567151d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
             "id": "2b6bb183372d9fe3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teaching/Jadwal Mengajar.md",
+                "file": "Sesi 5 Organizational Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,55 +140,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teaching/Jadwal Mengajar.md",
+                "file": "Sesi 5 Organizational Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "f3ebb4e8567151d9",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "2737a4b658ca0d42",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Teaching/Jadwal Mengajar.md"
-              }
-            }
-          },
-          {
-            "id": "28130e632de1496e",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "8d21f8793779ba49",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "5a11fdad1afa164d",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {}
             }
           }
         ],
@@ -158,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 258,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,52 +162,51 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "yet-another-obsidian-synchronizer:YAOS": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-autoscroll:Auto Scroller (speed 0.2)": false,
-      "audio-recorder:Start/stop recording": false
+      "obsidian-autoscroll:Auto Scroller (speed 0.2)": false
     }
   },
-  "active": "eef97604d040f56b",
+  "active": "268217fb7b15a3a0",
   "lastOpenFiles": [
-    "Pasted image 20231105233328.jpg",
-    "Teaching/Jadwal Mengajar.md",
-    "Teaching/Bahasa Inggris",
+    "Kuliah/Status Diskusi.md",
+    "Kuliah/Pengantar Pendidikan/Sesi 5 Antropologi Pendidikan.md",
+    "Sesi 5 Organizational Patterns.md",
+    "Kuliah/Pendidikan Agama Islam/Sesi 5 Agama sebagai Sumber Moral dan Akhlak Mulia dalam Kehidupan.md",
     "Kuliah/Pengantar Pendidikan/Mod/Modul 6 Antropologi Pendidikan.md",
     "Kuliah/Pengantar Pendidikan/Mod/Cat -  Modul 6 Pengantar Pendidikan.md",
+    "08-11-2023.md",
+    "Template",
+    "Teaching/Jadwal Mengajar.md",
+    "Teaching/Session",
+    "Recording 20231108112513.webm",
+    "Teaching/Bahasa Inggris/English VII/Chapter 0.md",
+    "Teaching/Bahasa Inggris/VII English.md",
+    "Teaching/Bahasa Inggris/English VII",
+    "Teaching/Track Mengajar.md",
+    "Pasted image 20231105233328.jpg",
+    "Teaching/Bahasa Inggris",
     "Teaching/Bahasa Inggris/IX",
     "Teaching/Bahasa Inggris/VIII",
     "Teaching/Bahasa Inggris/VII",
     "Teaching",
     "Kuliah/Sociolinguistics",
     "PKM/Cara Merangkum Buku di PC.md",
-    "PKM",
-    "Kuliah/Pengantar Pendidikan/Sesi 5 Antropologi Pendidikan.md",
-    "Kuliah/Pengantar Pendidikan/Mod",
     "Kuliah/Pengantar Pendidikan/Untitled.md",
     "Kuliah/Pengantar Pendidikan/Sesi 4 Lingkungan Pendidikan.md",
-    "Kuliah/Pendidikan Agama Islam/Sesi 5 Agama sebagai Sumber Moral dan Akhlak Mulia dalam Kehidupan.md",
     "Modul.md",
     "[Modul.md",
     "Kuliah/Untitled.md",
     "Pengantar Pendidikan/Sesi 5 Antropologi Pendidikan.md",
     "Structure I/Sesi 5 PRESENT AND PAST TENSES (Modul 8, dan 9).md",
     "Pendidikan Agama Islam/Sesi 5 Agama sebagai Sumber Moral dan Akhlak Mulia dalam Kehidupan.md",
-    "Pendidikan Agama Islam",
     "Structure I/Sesi 4 Auxiliaries (Modal Verbs), and Agreement (Module 6, and 7).md",
     "Writing I/Week 4 - Report Texts.md",
     "report-text.webp",
     "Maqoshid/Premis & content/Pressure.md",
     "Maqoshid/Premis & content/Kehilangan.md",
     "Listening I/Sesi 4 Listening To Telephone Conversations.md",
-    "Reading I/Sesi 4 Reading for the Gist.md",
-    "Listening I/Sesi 4 Reading for the Gist.md",
-    "Pengantar Pendidikan/Sesi 4 Lingkungan Pendidikan.md",
-    "Template/TOC Cr0kz.md",
-    "Template/Table of Content.md",
-    "Template/Simple Timer.md",
-    "Listening I"
+    "Reading I/Sesi 4 Reading for the Gist.md"
   ]
 }

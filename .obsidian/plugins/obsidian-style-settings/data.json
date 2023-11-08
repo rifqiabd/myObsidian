@@ -6,5 +6,7 @@
   "title@@vibrant": false,
   "minimal-advanced@@styled-scrollbars": true,
   "minimal-style@@maximize-tables-off": "maximize-tables-auto",
-  "minimal-style@@table-numbers": false
+  "minimal-style@@table-numbers": false,
+  "title@@dim-light-mode": false,
+  "title@@space-above-document": false
 }

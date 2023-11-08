@@ -1,3 +1,4 @@
+```markdown
 | Hari  | Waktu       | Mata Pelajaran | Kelas    | Jam |
 | ----- | ----------- | -------------- | -------- | --- |
 | Ahad  | 08.50-11.10 | TIK            | VII & IX |     |
@@ -8,4 +9,5 @@
 | Rabu  | 08.10-09.30 | Inggris        | VIII     |     |
 | ^     | 09.50-11.10 | Inggris        | IX       |     |
 | ^     | 11.50-13.10 | Inggris        | VII      |     |
+```
 
