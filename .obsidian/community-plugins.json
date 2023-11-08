@@ -1,17 +1,13 @@
 [
-  "obsidian-style-settings",
-  "cmdr",
   "obsidian-git",
   "obsidian-toggle-case",
   "templater-obsidian",
-  "obsidian-autoscroll",
-  "table-editor-obsidian",
   "sheets",
   "mermaid-themes",
   "mermaid-tools",
-  "obsidian-minimal-settings",
   "obsidian-kanban",
   "calendar",
-  "recent-files-obsidian",
+  "translate",
+  "list-style",
   "language-translator"
 ]

@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e716033c7ab8ff1a",
+        "id": "63dfb94471663444",
         "type": "tabs",
         "children": [
           {
-            "id": "9932ebf61024d37f",
+            "id": "a0406dfcdf120aa9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Listening to Anouncement and Notice.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -77,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.0124969482422
+    "width": 268.5,
+    "collapsed": true
   },
   "right": {
     "id": "d847501f1b8c783b",
@@ -100,9 +98,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "5 - Listening to Anouncement and Notice.md"
-              }
+              "state": {}
             }
           },
           {
@@ -122,8 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - Listening to Anouncement and Notice.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -139,18 +134,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 - Listening to Anouncement and Notice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 397
+    "width": 397,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,51 +156,51 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-autoscroll:Auto Scroller (speed 0.2)": false
+      "translate:Open translation view": false
     }
   },
-  "active": "9932ebf61024d37f",
+  "active": "a0406dfcdf120aa9",
   "lastOpenFiles": [
-    "5 - Recount Texts.md",
+    "001 Zettelkasten/5 - Recount Texts.md",
+    "002 Reference/Writing I.md",
+    "Pasted image 20231109012050.png",
+    "003 File/Recount Text.png",
+    "001 Zettelkasten/5 - Listening to Weather Forecast.md",
+    "001 Zettelkasten/Untitled.md",
+    "5 - Listening to Weather Forecast.md",
+    "Central Notes.md",
+    "Kuliah/Pengantar Pendidikan/Mod/Modul 6 Antropologi Pendidikan.md",
+    "001 Zettelkasten/5 - Sociolinguistics and Language Teaching.md",
+    "001 Zettelkasten/5 - Listening to Anouncement and Notice.md",
+    "004 Template/Person or Book Page.md",
+    "004 Template/Core Zettelkasten Idea.md",
+    "002 Reference/🧔Artem Kirsanov.md",
+    "002 Reference/Untitled",
+    "Todos.md",
+    "Obsidian Zettelkasten.md",
+    "🧔Artem Kirstanov.md",
     "Status Diskusi.md",
-    "Sesi 5 Organizational Patterns.md",
+    "002 Reference",
+    "001 Zettelkasten/Sesi 5 Organizational Patterns.md",
     "Kuliah/Pendidikan Agama Islam/Sesi 5 Agama sebagai Sumber Moral dan Akhlak Mulia dalam Kehidupan.md",
     "Kuliah/Writing I/Week 4 - Report Texts.md",
     "Kuliah/Reading I/Sesi 4 Reading for the Gist.md",
     "Kuliah/Listening I/Sesi 4 Listening To Telephone Conversations.md",
     "Untitled.canvas",
-    "Kuliah/Pengantar Pendidikan/Mod/Modul 6 Antropologi Pendidikan.md",
-    "5 - Listening to Anouncement and Notice.md",
-    "5 - Sociolinguistics and Language Teaching.md",
-    "LE_listening_A2_Transport_announcements.mp3",
+    "003 File/LE_listening_A2_Transport_announcements.mp3",
     "Kuliah/Pengantar Pendidikan/Sesi 5 Antropologi Pendidikan.md",
     "Sesi 5 Antropologi Pendidikan.md",
-    "symFile",
+    "003 File",
     "Kuliah/Pengantar Pendidikan/Mod/Cat -  Modul 6 Pengantar Pendidikan.md",
-    "Catatan/08-11-2023.md",
-    "Template",
-    "Teaching/Jadwal Mengajar.md",
+    "001 Zettelkasten/08-11-2023.md",
+    "004 Template",
     "Teaching/Session",
     "Recording 20231108112513.webm",
-    "Teaching/Bahasa Inggris/English VII/Chapter 0.md",
-    "Teaching/Bahasa Inggris/VII English.md",
     "Teaching/Bahasa Inggris/English VII",
-    "Teaching/Track Mengajar.md",
-    "symFile/Pasted image 20231105233328.jpg",
+    "003 File/Pasted image 20231105233328.jpg",
     "Teaching/Bahasa Inggris",
     "Teaching/Bahasa Inggris/IX",
-    "Teaching/Bahasa Inggris/VIII",
-    "Teaching/Bahasa Inggris/VII",
-    "PKM/Cara Merangkum Buku di PC.md",
-    "Kuliah/Pengantar Pendidikan/Untitled.md",
-    "Kuliah/Pengantar Pendidikan/Sesi 4 Lingkungan Pendidikan.md",
-    "Modul.md",
-    "[Modul.md",
-    "Kuliah/Untitled.md",
-    "Pengantar Pendidikan/Sesi 5 Antropologi Pendidikan.md",
-    "Structure I/Sesi 5 PRESENT AND PAST TENSES (Modul 8, dan 9).md",
-    "symFile/report-text.webp"
+    "003 File/report-text.webp"
   ]
 }
