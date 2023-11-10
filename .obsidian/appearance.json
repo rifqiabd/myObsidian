@@ -1,7 +1,7 @@
 {
-  "accentColor": "#0b59ad",
-  "theme": "obsidian",
-  "cssTheme": "Minimal",
+  "accentColor": "",
+  "theme": "moonstone",
+  "cssTheme": "Material Ocean",
   "translucency": false,
-  "baseFontSize": 16
+  "baseFontSize": 14.5
 }
