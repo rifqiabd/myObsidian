@@ -1,0 +1,9 @@
+{
+  "pinned": [
+    "workspace:close",
+    "insert-template",
+    "file-explorer:move-file",
+    "obsidian-toggle-case:toggle-case",
+    "outline:open"
+  ]
+}

@@ -179,3 +179,5 @@ debugLog("TOC:", newTOC);
 // Update the file with the new content
 await app.vault.modify(activeFile, fileContentSplit.join('\n'));
 %>
+
+#templater 

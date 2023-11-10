@@ -1,4 +1,4 @@
-#PAI 
+#PAI #study 
 # Diskusi
 Diskusikan dengan teman saudara tentang**
 

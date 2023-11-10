@@ -30,8 +30,8 @@
   "default_source_language": "auto",
   "target_language_preference": "specific",
   "last_used_target_languages": [
-    "en",
-    "id"
+    "id",
+    "en"
   ],
   "default_target_language": "en",
   "filtered_services": [

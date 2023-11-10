@@ -1,4 +1,4 @@
-#Pengantar_Pendidikan
+#study #Pengantar_Pendidikan
 # List Tugas
 - [Belajar](#✨belajar)
 - [Diskusi](#📖 Diskusi)

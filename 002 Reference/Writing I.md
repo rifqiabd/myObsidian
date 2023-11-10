@@ -1,6 +1,6 @@
 Name : Writing I
 Di akses pada : 20231109 00:26
-Type : #book
+Type : #book #study 
 Link : `link here`
 1. https://univterbuka.kotobee.com/#/book/53378/reader
 2. 
@@ -10,7 +10,7 @@ Link : `link here`
 
 
 `bab lainnya akan ditulis nanti`
-# 5 Recount Texts
+# Modul 5 Recount Texts
 ## Pendahuluan
 ### General Competence
 >Able to Write Recount Text with an apropriate schematic structure and linguistic features on different topics
@@ -48,14 +48,61 @@ Characteristic of recount text :
 	d. Procedural Recount : Telling about the procedure for an activity in the past
 	e. Historical Recount : Tells stories of past events related to history
 
+# Modul 6 Narrative Texts
+## Pendahuluan
+### General Competence
+Students are able to write narrative type texts with appropriate organizational structure and linguistic characteristics
+### Specific Competence
+- [ ] Explain the social function of narrative essays
+- [ ] Explain purpose of narrative essays
+- [ ] Identify organizational structure of Narrative Texts
+- [ ] Identify Linguistics Characteristics of Narrative Texts
+- [ ] Write narrative text with appropriate organizational structure and linguistic characteristics
+
+MAIN TOPIC : Narrative Text
+SUB TOPIC:
+1. Definition of Narrative Text
+2. Social Function of Narrative Text
+3. Purpose of Narrative Text
+5. Linguistics feature of Narrative Texts
+4. Organization of Narrative Text
+6. Models of Narrative texts
+7. Writing Narrative Texts 
+## KB1 - Social Function and Purpose of Narrative Texts
+
+### Definition of Narrative Text
+Narrative text is a form of information in the form of events or incidents presented chronologically Oshima & Hogue (2007) refers to narration as story telling.
+
+>[!quote]
+>"When you write a narrative paragraph, you write about events in the order that they happen. In other words, you use time order to organize your event"
+
+Narrative text is a type of text that contains stories (fiction/nonfiction/fairy tales/folktales/myths/epics) and plot consisting of a story climax (complication) followed by a resolution.
+
+### Social Function and Purpose of Narrative
+
+| Social purpose                                                                                                                          | Social Location                                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Entertain and instruct via reflection on experience. Deal with problematic events which individuals have to resolve for better or worse | Narrative are found across all aspects of cultural life, in novels, short  stories,  movies, sit coms, and radio dramas. they are important in subjects such as English |
+
+Wahidi (2008) explain about social function of narrative text :
+"Narrative is a text focusing specific participants. Its social function is to tell stories or past events and entertain the readers. Narrative deals with problematic events which lead to a crisis or turning point of some kind, which in turn finds a resolution.”
 
 
+## General Structure of Narrative Text
+
+**Orientation**:
+It set the scene and introduce the participants (it answers the question : who, when, what, and where);
+**Complication**:
+Introduces one or more problems for characters to solve. Tells the problems of the story and how the main characters solve them. This part includes situations, activities, or events that lead problem/complication to the climax. it shows when the crisis arise.;
+**Resolution**
+Highlights the significant of the events for character. The crisis is revolved, for better or worse. It shows the end of the story, usually a happy ending.
+
+**Other generic structures of narrative text:**
+- **Evaluation** : (optional) The stepping back to evaluate the story or the moral message of the story
+- **Coda** : (optional) changes of the characters of lesson / value of the story.
+- **Re-orientation** : (optional) The ending of the story.
 
 
-
-___
-# Dump Translate
-[^1]:Recount is a type of text whose purpose is to retell past events or experiences.
-[^2]:Education Department of Western Australia, 1997a:45; Christie
-[^3]:Anderson dan Anderson, 1997;Durkin, Ferguson dan Sperring, 2006; Derewianka, 1990; Christie
-[^4]:Recount "aims to give readers an idea of ​​what happened and when it happened" (Anderson and Anderson, 1997a:48)
+# References
+Modul 6 BMP Writing I (PBIS4111.6) Universitas Terbuka
+[Narrative Text (lila-english.blogspot.com)](http://lila-english.blogspot.com/2012/11/narrative-text.html) diakses 9/11/2023 pada http://lila-english.blogspot.com/2012/11/narrative-text.html

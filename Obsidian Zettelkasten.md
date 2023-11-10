@@ -1,3 +1,5 @@
+#pkm
+
 Zettelkasten folder Structure
 1. Zettelkasten
 	Idea notes

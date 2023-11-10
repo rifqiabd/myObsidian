@@ -1,3 +1,4 @@
+#personal 
 - [ ] Mengerjakan Diskusi
 	- [ ] Listening I
 	- [x] Reading I

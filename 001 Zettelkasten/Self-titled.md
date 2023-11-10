@@ -1,3 +1,4 @@
+#personal 
 Dalam perjalanan hidup, kita akan merasakan banyak kehilangan.
 
 Sebagaimana Allah SWT firmankan dalam surat!

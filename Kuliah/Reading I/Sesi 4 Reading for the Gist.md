@@ -10,7 +10,7 @@
 
 %%ENDTOC%%
 
-#Reading_I 
+#Reading_I #study 
 
 # Study Outline
 - [x] menentukan topic nouns

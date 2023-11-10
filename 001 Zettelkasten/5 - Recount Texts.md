@@ -1,6 +1,6 @@
 20231109 00:18
-Status: #course
-Tags: #Writing_I 
+Status: #study
+Tags: #Writing_I  
 
 # 5 - Recount Texts
 

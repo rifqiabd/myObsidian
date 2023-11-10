@@ -9,5 +9,10 @@
   "calendar",
   "translate",
   "list-style",
-  "language-translator"
+  "language-translator",
+  "table-editor-obsidian",
+  "obsidian-wikipedia",
+  "obsidian-enhancing-export",
+  "webpage-html-export",
+  "obsidian-minimal-settings"
 ]

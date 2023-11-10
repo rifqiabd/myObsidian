@@ -1,3 +1,5 @@
+#personal  
+
 Anda bisa merangkum buku di PC dengan beberapa langkah sederhana. Berikut adalah panduan langkah demi langkah:
 
 1. **Baca Buku**: Pertama, baca buku yang ingin Anda rangkum dengan seksama. Ini penting agar Anda memahami kontennya.

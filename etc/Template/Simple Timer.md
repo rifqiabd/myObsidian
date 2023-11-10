@@ -6,3 +6,5 @@ const now = await new Date();
 const diff = await elixirConfDate - now;
 const days = await Math.floor(diff / (1000 * 3600 * 24));
 %><% days %> days until my event!
+
+#templater
