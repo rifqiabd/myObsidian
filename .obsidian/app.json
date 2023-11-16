@@ -3,5 +3,14 @@
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "001 Zettelkasten"
+  "newFileFolderPath": "001 Zettelkasten",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showLineNumber": false,
+  "attachmentFolderPath": "003 File"
 }

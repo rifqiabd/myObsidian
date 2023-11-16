@@ -1,7 +1,9 @@
 {
   "accentColor": "#0b59ad",
   "theme": "obsidian",
-  "cssTheme": "Minimal",
+  "cssTheme": "Material Flat",
   "translucency": false,
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "nativeMenus": false
 }

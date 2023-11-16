@@ -1,10 +1,27 @@
-Name : Pengantar Pendidikan (MKDK4001)
+>[!SUMMARY]+ Table of Contents
+>- [Modul 6 - Antropologi Pendidikan](Pengantar%20Pendidikan%20(MKDK4001).md#Modul%206%20-%20Antropologi%20Pendidikan)
+>    - [KB1 Manusia dan Kebudayaan](Pengantar%20Pendidikan%20(MKDK4001).md#KB1%20Manusia%20dan%20Kebudayaan)
+>        - [Study Outline](Pengantar%20Pendidikan%20(MKDK4001).md#Study%20Outline)
+>        - [Goal](Pengantar%20Pendidikan%20(MKDK4001).md#Goal)
+>        - [Manusia dan Kebudayaan](Pengantar%20Pendidikan%20(MKDK4001).md#Manusia%20dan%20Kebudayaan)
+>        - [Kebudayaan dan Kesenian](Pengantar%20Pendidikan%20(MKDK4001).md#Kebudayaan%20dan%20Kesenian)
+>        - [Latihan](Pengantar%20Pendidikan%20(MKDK4001).md#Latihan)
+>    - [KB2 Hakikat Kebudayaan](Pengantar%20Pendidikan%20(MKDK4001).md#KB2%20Hakikat%20Kebudayaan)
+>        - [Karakteristik - Karakteristik Pokok Kebudayaan](Pengantar%20Pendidikan%20(MKDK4001).md#Karakteristik%20-%20Karakteristik%20Pokok%20Kebudayaan)
+>- [Modul 7 - Eksistensi Perubahan Sosial Hubungannya dengan Pendidikan Formal, Nonformal, dan Informal](Pengantar%20Pendidikan%20(MKDK4001).md#Modul%207%20-%20Eksistensi%20Perubahan%20Sosial%20Hubungannya%20dengan%20Pendidikan%20Formal,%20Nonformal,%20dan%20Informal)
+>    - [KB1 - Eksistensi Perubahan Sosial dan Pendidikan Formal, Nonformal, dan Informal](Pengantar%20Pendidikan%20(MKDK4001).md#KB1%20-%20Eksistensi%20Perubahan%20Sosial%20dan%20Pendidikan%20Formal,%20Nonformal,%20dan%20Informal)
+>        - [Eksistensi Perubahan Sosial](Pengantar%20Pendidikan%20(MKDK4001).md#Eksistensi%20Perubahan%20Sosial)
+>        - [Eksistensi Pendidikan](Pengantar%20Pendidikan%20(MKDK4001).md#Eksistensi%20Pendidikan)
+
+%%ENDTOC%%
+Name : Penganta
+
+#templater r Pendidikan (MKDK4001)
 Di akses pada : 20231109 15:24
 Type : #book`
 Link : `link here`
 1. 
-2. 
-
+#templater 
 # Modul 6 - Antropologi Pendidikan
 ## KB1 Manusia dan Kebudayaan
 ### Study Outline
@@ -183,22 +200,23 @@ Kebudayaan sistem ideal memberi arah kepada perbuatan, cipta, karsa, dan karya m
 
 
 # Modul 7 - Eksistensi Perubahan Sosial Hubungannya dengan Pendidikan Formal, Nonformal, dan Informal
-## Pendahuluan
-### General Competence
+
+**General Competence**
 1. Menjelaskan secara singkat eksistensi perubahan-perubahan sosial
 2. Menjelaskan secara singkat eksistensi pendidikan dan eksistensi perubahan sosial
 3. Menjelaskan Globalisasi, Ilmu Pengetahuan dan Teknologi, serta Demokratisasi dalam Perubahan Sosial
-### Specific Competence
+
+**Specific Competence**
 MAIN TOPIC : Perubahan Sosial
 SUB TOPIC:
 1. Eksistensi Perubahan Sosial dan Pendidikan Formal, Nonformal, dan Informal
 2. Globalisasi, Ilmu Pengetahuan dan Teknologi serta Demokratisasi dalam Perubahan Sosial.
 
 
-# KB1 - Eksistensi Perubahan Sosial dan Pendidikan Formal, Nonformal, dan Informal
+## KB1 - Eksistensi Perubahan Sosial dan Pendidikan Formal, Nonformal, dan Informal
 
-## Eksistensi Perubahan Sosial
-### Pengertian Perubahan Sosial
+### Eksistensi Perubahan Sosial
+#### Pengertian Perubahan Sosial
 
 - **William F. Ogburn** mengemukakan bahwa lingkup perubahan sosial meliputi unsur-unsur kebudayaan baik yang bersifat material maupun immaterial.
 - **Mac Iver** menyebutkan bahwa perubahan-perubahan sosial adalah ekspresi dari jiwa yang terwujud dalam cara-cara hidup dan berpikir, pergaulan hidup, seni kesusastraan, agama, rekreasi, dan hiburan.
@@ -217,13 +235,13 @@ Perubahan sosial adalah perubahan lembaga-lembaga kemasyarakatan di dalam lingku
 
 Perubahan sosial merupakan sesuatu yang normal terjadi dan terus berkelanjutan sesuai dengan arah, tingkat, dan kecepatan perubahan kehidupan masyarakat. Untuk memahami perubahan, kita harus melakukan analisis karena pemahaman mengenai perubahan adalah prasyarat untuk memahami struktur masyarakat. Orang yang memandang masyarakat sebagai sistem yang berada dalam keseimbangan dan yang mencoba menganalisis aspek struktural sistem masyarakat, akan mengakui bahwa keseimbangan (equiliberium) hanya dapat dipertahankan melalui perubahan tertentu di dalam sistem tersebut
 
-### Bentuk-bentuk Perubahan Sosial
+#### Bentuk-bentuk Perubahan Sosial
 Perubahan sosial meliputi jenis-jenis sebagai berikut:
 1. Perubahan yang terjadi secara lambat dan perubahan yang terjadi secara cepat
 2. Perubahan yang pengaruhnya kecil dan perubahan yang besar pengaruhnya
 3. Perubahan yang dikehendaki atau direncanakan dan perubahan yang tidak dikehendaki atau tidak direncanakan
 
-### Sebab Terjadinya Perubahan Sosial
+#### Sebab Terjadinya Perubahan Sosial
 1. Penyebab yang datangnya dari dalam masyarakat
 	Faktor internalnya :
 	- Perubahan penduduk
@@ -236,7 +254,7 @@ Perubahan sosial meliputi jenis-jenis sebagai berikut:
 	- Pengaruh kebudayaan masyarakat lain.
 
 
-## Eksistensi Pendidikan
+### Eksistensi Pendidikan
 Pendidikan dalam konteks Indonesia dipahami sebagai "Usaha sadar dan terencana untuk mewujudkan suasana belajar dan proses pembelajaran agar peserta didik secara aktif mengembangkan potensi dirinya untuk memiliki kekuatan spiritual keagamaan, pengendalian diri, kepribadian, kecerdasan, akhlak mulia, serta keterampilan yang diperlukan dirinya, masyarakat, bangsa, dan negara” (Pasal 1, ayat 1)
 
 Pendidikan merupakan sesuatu yang mutlak bagi umat manusia.

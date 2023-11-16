@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6f5031fe730f5b84",
+        "id": "bda1b392f47fc3a7",
         "type": "tabs",
         "children": [
           {
-            "id": "e184ccc3a9bc7c09",
+            "id": "576b3987c5f9a087",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Zettelkasten/Reading I.md",
+                "file": "001 Zettelkasten/Sosialisasi EMIS TPQ Madin Buaran.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,14 +58,6 @@
             }
           },
           {
-            "id": "98a259eb93a911ab",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
             "id": "57b257dfded6ca5b",
             "type": "leaf",
             "state": {
@@ -73,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 268.5
   },
   "right": {
     "id": "d847501f1b8c783b",
@@ -102,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 Zettelkasten/Reading I.md"
+                "file": "001 Zettelkasten/Sosialisasi EMIS TPQ Madin Buaran.md"
               }
             }
           },
@@ -123,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 Zettelkasten/Reading I.md",
+                "file": "001 Zettelkasten/Sosialisasi EMIS TPQ Madin Buaran.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,14 +132,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 Zettelkasten/Reading I.md",
+                "file": "001 Zettelkasten/Sosialisasi EMIS TPQ Madin Buaran.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "dfa3e15211bae1ff",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -169,11 +169,26 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e184ccc3a9bc7c09",
+  "active": "576b3987c5f9a087",
   "lastOpenFiles": [
-    "001 Zettelkasten/Sesi 5 Organizational Patterns.md",
-    "001 Zettelkasten/Reading I.md",
+    "Todos.md",
+    "001 Zettelkasten/Sosialisasi EMIS TPQ Madin Buaran.md",
+    "001 Zettelkasten/[[Sosialisasi.md",
+    "Kuliah/Pendidikan Agama Islam/Sesi 5 Agama sebagai Sumber Moral dan Akhlak Mulia dalam Kehidupan.md",
+    "001 Zettelkasten/5 - Listening to Anouncement and Notice.md",
+    "Kuliah/Structure I/Sesi 5 Present And Past Tenses (Modul 8, dan 9).md",
+    "001 Zettelkasten/Untitled.md",
+    "001 Zettelkasten/Untitled 1.md",
+    "001 Zettelkasten/Untitled 2.md",
+    "001 Zettelkasten/Pendidikan Agama Islam (MKDU4221).md",
+    "001 Zettelkasten/Sociolinguistics I.md",
+    "001 Zettelkasten/Sesi 5 - Sociolinguistics and Language Teaching.md",
     "Status Diskusi.md",
+    "001 Zettelkasten/Structure I.md",
+    "001 Zettelkasten/Reading I.md",
+    "001 Zettelkasten/Sesi 5 Organizational Patterns.md",
+    "001 Zettelkasten/Subject Verb Agreement - Penjelasan Lengkap Aturan disertai Contoh.md",
+    "Pasted image 20231111023831.png",
     "002 Reference/Pengantar Pendidikan (MKDK4001).md",
     "001 Zettelkasten/Modul 6 Antropologi Pendidikan.md",
     "001 Zettelkasten/Analisis Waktu Pengerjaan Diskusi dan Tugas Elearning.md",
@@ -184,20 +199,6 @@
     "Kuliah/Pengantar Pendidikan/Sesi 4 Lingkungan Pendidikan.md",
     "002 Reference/Writing I.md",
     "Pasted image 20231109145027.png",
-    "001 Zettelkasten/Move Files.md",
-    "004 Template/Modul Page.md",
-    "PKM/Cara Merangkum Buku di PC.md",
-    "001 Zettelkasten/Self-titled.md",
-    "004 Template/Person or Book Page.md",
-    "etc/Template/TOC Cr0kz.md",
-    "Todos.md",
-    "Teaching/Track Mengajar.md",
-    "001 Zettelkasten/Reading List.md",
-    "002 Reference/English for Nusantara Kelas VII.md",
-    "001 Zettelkasten/Premis & content/Pressure.md",
-    "etc/Template/Table of Content.md",
-    "etc/Template/Insert Callout Template.md",
-    "Teaching/VII English.md",
     "Pasted image 20231109012050.png",
     "003 File/Recount Text.png",
     "002 Reference/Untitled",

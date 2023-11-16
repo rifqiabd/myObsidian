@@ -6,14 +6,13 @@ kanban-plugin: basic
 
 ## ❌Belum dikerjakan
 
-- [ ] Reading I<br>[[Sesi 5 Organizational Patterns]]
-- [ ] Sociolinguistics<br>[[5 - Sociolinguistics and Language Teaching]]
 
 
 ## 🔄Process
 
 - [ ] PAI<br>[[Sesi 5 Agama sebagai Sumber Moral dan Akhlak Mulia dalam Kehidupan]]
-- [ ] Structure I<br>[[Sesi 5 PRESENT AND PAST TENSES (Modul 8, dan 9)]]
+- [ ] Structure I<br>[[Sesi 5 Present And Past Tenses (Modul 8, dan 9)]]
+- [ ] Sociolinguistics<br>[[Sesi 5 - Sociolinguistics and Language Teaching]]
 
 
 ## ✅ Complete
@@ -21,6 +20,7 @@ kanban-plugin: basic
 **Complete**
 - [ ] Listening I<br>[[5 - Listening to Anouncement and Notice]]
 - [x] Writing I<br>[[5 - Recount Texts]]
+- [x] Reading I<br>[[Sesi 5 Organizational Patterns]]
 - [x] Peng. Pendidikan<br>[[Sesi 5 Antropologi Pendidikan]]
 
 

@@ -1,10 +1,16 @@
 #PAI #study 
+
+# Referensi
+[[Pendidikan Agama Islam (MKDU4221)]]
+
 # Diskusi
 Diskusikan dengan teman saudara tentang**
 
 1. Islam sangat menghargai budaya suatu masyarakat. Menurut sejarah keberhasilan agama Islam dalam menyebarkan ajarannya di Nusantara karena Islam sangat menghormati budaya setempat bahkan budaya setempat bisa dijadikan sumber hukum. Jelaskan makna pernyataan di atas dilengkapi dalil untuk memperkuat pendapat Anda!
 
 2. Sebutkah satu saja akhlak mulia dalam kehidupan, serta ungkapkan bagaimana caranya Anda berjuang untuk menerapkan akhlak tersebut dan tantangan apa saja yang terjadi!
+____
+
 
 ## Answer
 1. Pernyataan tsb menyatakan bahwa islam sangat menghargai budaya suatu masyarakat. Islam juga mau berbaur dalam budaya, dan mau mengarahkan budaya agar tidak hilang dan tetap lestari tidak melanggar hukum agama. 
