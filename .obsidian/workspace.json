@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d90fae0b08f96dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 Zettelkasten/Sosialisasi EMIS TPQ Madin Buaran.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 Zettelkasten/Sosialisasi EMIS TPQ Madin Buaran.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 Zettelkasten/Sosialisasi EMIS TPQ Madin Buaran.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,10 +181,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "576b3987c5f9a087",
+  "active": "5d90fae0b08f96dc",
   "lastOpenFiles": [
-    "Todos.md",
     "001 Zettelkasten/Sosialisasi EMIS TPQ Madin Buaran.md",
+    "conflict-files-obsidian-git.md",
+    "Screenshot_20231110-132954.jpg",
+    "003 File/Pasted image 20231109012050.png",
+    "002 Reference/Reading I.md",
+    "001 Zettelkasten/Assignment II Reading I - Ahmad Rifqi Abdillah 050467393.md",
+    "Todos.md",
     "001 Zettelkasten/[[Sosialisasi.md",
     "Kuliah/Pendidikan Agama Islam/Sesi 5 Agama sebagai Sumber Moral dan Akhlak Mulia dalam Kehidupan.md",
     "001 Zettelkasten/5 - Listening to Anouncement and Notice.md",
@@ -195,9 +212,6 @@
     "Kuliah/Listening I/Sesi 4 Listening To Telephone Conversations.md",
     "Kuliah/Pengantar Pendidikan/Sesi 5 Antropologi Pendidikan.md",
     "001 Zettelkasten/6 - Narrative Texts.md",
-    "Kuliah/Pengantar Pendidikan/Mod/Modul 6 Antropologi Pendidikan.md",
-    "Kuliah/Pengantar Pendidikan/Sesi 4 Lingkungan Pendidikan.md",
-    "002 Reference/Writing I.md",
     "Pasted image 20231109145027.png",
     "Pasted image 20231109012050.png",
     "003 File/Recount Text.png",
