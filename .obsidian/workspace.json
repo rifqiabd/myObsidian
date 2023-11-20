@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "bda1b392f47fc3a7",
+        "id": "323bb1e1033e778c",
         "type": "tabs",
         "children": [
           {
-            "id": "576b3987c5f9a087",
+            "id": "b3e99c65499e91af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Zettelkasten/Sosialisasi EMIS TPQ Madin Buaran.md",
+                "file": "Todos.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "0e6c015e89511b30",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Todos draw.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 268.5,
+    "collapsed": true
   },
   "right": {
     "id": "d847501f1b8c783b",
@@ -80,20 +92,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4179454e748da8c7",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "2737a4b658ca0d42",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 Zettelkasten/Sosialisasi EMIS TPQ Madin Buaran.md"
+                "file": "Excalidraw/Todos draw.excalidraw.md"
               }
             }
           },
@@ -114,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 Zettelkasten/Sosialisasi EMIS TPQ Madin Buaran.md",
+                "file": "Excalidraw/Todos draw.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 Zettelkasten/Sosialisasi EMIS TPQ Madin Buaran.md",
+                "file": "Excalidraw/Todos draw.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -165,40 +169,42 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "translate:Open translation view": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "576b3987c5f9a087",
+  "active": "0e6c015e89511b30",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Todos.md",
+    "Excalidraw/Todos draw.excalidraw.md",
+    "Excalidraw",
+    "001 Zettelkasten/Sesi 6 - Future Tenses.md",
+    "002 Reference/Reading I.md",
+    "003 File/Pasted image 20231120013510.png",
+    "001 Zettelkasten/Untitled 1.md",
+    "001 Zettelkasten/Reading I.md",
+    "001 Zettelkasten/Sesi 7 Inferences and Conclusion.md",
+    "002 Reference/Pengantar Pendidikan (MKDK4001).md",
+    "001 Zettelkasten/Untitled.md",
+    "001 Zettelkasten/Sesi 6 Eksistensi Perubahan Sosial Hubungannya dengan Pendidikan Formal, Nonformal dan Informal.md",
     "001 Zettelkasten/Sosialisasi EMIS TPQ Madin Buaran.md",
+    "conflict-files-obsidian-git.md",
     "Screenshot_20231110-132954.jpg",
     "003 File/Pasted image 20231109012050.png",
-    "002 Reference/Reading I.md",
     "001 Zettelkasten/Assignment II Reading I - Ahmad Rifqi Abdillah 050467393.md",
-    "Todos.md",
     "001 Zettelkasten/[[Sosialisasi.md",
     "Kuliah/Pendidikan Agama Islam/Sesi 5 Agama sebagai Sumber Moral dan Akhlak Mulia dalam Kehidupan.md",
     "001 Zettelkasten/5 - Listening to Anouncement and Notice.md",
     "Kuliah/Structure I/Sesi 5 Present And Past Tenses (Modul 8, dan 9).md",
-    "001 Zettelkasten/Untitled.md",
-    "001 Zettelkasten/Untitled 1.md",
     "001 Zettelkasten/Untitled 2.md",
     "001 Zettelkasten/Pendidikan Agama Islam (MKDU4221).md",
     "001 Zettelkasten/Sociolinguistics I.md",
     "001 Zettelkasten/Sesi 5 - Sociolinguistics and Language Teaching.md",
     "Status Diskusi.md",
     "001 Zettelkasten/Structure I.md",
-    "001 Zettelkasten/Reading I.md",
     "001 Zettelkasten/Sesi 5 Organizational Patterns.md",
     "001 Zettelkasten/Subject Verb Agreement - Penjelasan Lengkap Aturan disertai Contoh.md",
     "Pasted image 20231111023831.png",
-    "002 Reference/Pengantar Pendidikan (MKDK4001).md",
     "001 Zettelkasten/Modul 6 Antropologi Pendidikan.md",
-    "001 Zettelkasten/Analisis Waktu Pengerjaan Diskusi dan Tugas Elearning.md",
-    "Kuliah/Listening I/Sesi 4 Listening To Telephone Conversations.md",
-    "Kuliah/Pengantar Pendidikan/Sesi 5 Antropologi Pendidikan.md",
-    "001 Zettelkasten/6 - Narrative Texts.md",
     "Pasted image 20231109145027.png",
     "Pasted image 20231109012050.png",
     "003 File/Recount Text.png",
@@ -213,7 +219,6 @@
     "Teaching/Bahasa Inggris/English VII",
     "003 File/Pasted image 20231105233328.jpg",
     "Teaching/Bahasa Inggris",
-    "Teaching/Bahasa Inggris/IX",
     "003 File/report-text.webp"
   ]
 }

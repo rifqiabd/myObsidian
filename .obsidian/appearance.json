@@ -1,17 +1,6 @@
 {
-<<<<<<< HEAD
-  "accentColor": "#0b59ad",
-  "theme": "obsidian",
-  "cssTheme": "Material Flat",
-  "translucency": false,
-  "baseFontSize": 16,
-  "showViewHeader": true,
-  "nativeMenus": false
-=======
   "accentColor": "",
   "theme": "moonstone",
-  "cssTheme": "Material Ocean",
-  "translucency": false,
-  "baseFontSize": 14.5
->>>>>>> origin/main
+  "cssTheme": "Atom",
+  "showViewHeader": true
 }

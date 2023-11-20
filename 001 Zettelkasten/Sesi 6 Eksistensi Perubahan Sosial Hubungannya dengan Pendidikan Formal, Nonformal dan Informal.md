@@ -6,7 +6,7 @@
 - (PDF) globalisasi, ilmu pengetahuan dan teknologi, serta demokratisasi pendidikan hubungannya dengan peradaban sosial [link](003%20File/Jurnal%20Pendidikan.pdf)
 
 # Diskusi
-Terdapat nilai-nilai budaya global  yang harus ditolak karena tidak sesuai dengan tatatan kehidupan bangsa kita Indonesia namun ada pula tatanan nilai budaya global yang dapat kita manfaaatkan untuk kemajuan bangsa akita,  meskipun itu dari bangsa yang pernah menjajah bangsa kita.
+Terdapat nilai-nilai budaya global  yang harus ditolak karena tidak sesuai dengan tatatan kehidupan bangsa kita Indonesia namun ada pula tatanan nilai budaya global yang dapat kita manfaatkan untuk kemajuan bangsa akita,  meskipun itu dari bangsa yang pernah menjajah bangsa kita.
 
 _Berikan contoh dengan penjelasan singkat terkait nilai-nilai budaya global yang harus kita tolak dan nilai-nilai budaya global yang dapat ditiru untuk dimanfaatkan dalam proses pendidikan di negara kita._
 ___

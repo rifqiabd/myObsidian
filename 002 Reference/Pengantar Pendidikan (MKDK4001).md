@@ -278,3 +278,5 @@ Pendidikan adalah sebuah upaya dan proses pematangan serta pendewasaan kehidupan
 Perubahan pada masyarakat ini merupakan suatu proses yang luas, dan lengkap yang mencakup perubahan pada seluruh tatanan kehidupan masyarakat. Perubahan pada masyarakat bukan hanya merupakan serpihan dari peristiwa sekelompok manusia tetapi fenomena itu menjadi saksi adanya suatu proses perubahan empiris dari kehidupan umat manusia. 
 
 Oleh karena itu daya serap perubahan sosial akan selalu merembes ke segala segi kehidupan masyarakat, khususnya di bidang pendidikan. Melalui pewarisan kebudayaan dan internalisasi nilai pada setiap individu, pendidikan hadir dalam bentuk sosialisasi kebudayaan, yang berinteraksi dengan nilai-nilai masyarakat dan memelihara interaksi masyarakat-masyarakat tersebut, yang pada akhirnya juga berpengaruh pada perubahan tatanan sosio-kultural masyarakat secara keseluruhan
+
+## KB2 Glo
