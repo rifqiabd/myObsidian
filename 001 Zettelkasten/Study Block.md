@@ -33,4 +33,7 @@ Hari hari itu memang susah karena adanya hal yang membuat mental down, seperti b
 Dan karena anggapan atas semua itu adalah tugas. Maka, framing itulah yang membuat otak saya overload dengan tugas itu.
 
 ## Conclusion
-Saya rasa 
+Setelah mempertimbangkan, Cons adalah yang paling masuk akal, walaupun sifat apatis itulah yang menyebabkan saya "Block" akan tetapi hal yang menyebabkan saya apatis juga lebih penting. Mungkin saya harus mengganti frame setiap apapun yang saya kerjakan bukan dengan frame "Tugas" akan tetapi dengan sesuatu lain yang lebih positif seperti "Objective" seperti di game2, atau "Quest" dan lain lain.
+
+# Amarah
+## Pros
