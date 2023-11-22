@@ -1,4 +1,4 @@
->[!SUMMARY]+ Table of Contents
+>[!SUMMARY]- Table of Contents
 >- [Modul 6 - Antropologi Pendidikan](Pengantar%20Pendidikan%20(MKDK4001).md#Modul%206%20-%20Antropologi%20Pendidikan)
 >    - [KB1 Manusia dan Kebudayaan](Pengantar%20Pendidikan%20(MKDK4001).md#KB1%20Manusia%20dan%20Kebudayaan)
 >        - [Study Outline](Pengantar%20Pendidikan%20(MKDK4001).md#Study%20Outline)
@@ -12,16 +12,15 @@
 >    - [KB1 - Eksistensi Perubahan Sosial dan Pendidikan Formal, Nonformal, dan Informal](Pengantar%20Pendidikan%20(MKDK4001).md#KB1%20-%20Eksistensi%20Perubahan%20Sosial%20dan%20Pendidikan%20Formal,%20Nonformal,%20dan%20Informal)
 >        - [Eksistensi Perubahan Sosial](Pengantar%20Pendidikan%20(MKDK4001).md#Eksistensi%20Perubahan%20Sosial)
 >        - [Eksistensi Pendidikan](Pengantar%20Pendidikan%20(MKDK4001).md#Eksistensi%20Pendidikan)
+>    - [KB2 Glo](Pengantar%20Pendidikan%20(MKDK4001).md#KB2%20Glo)
 
 %%ENDTOC%%
-Name : Penganta
 
-#templater r Pendidikan (MKDK4001)
+Name : Pengantar Pendidikan (MKDK4001)
 Di akses pada : 20231109 15:24
 Type : #book`
 Link : `link here`
 1. 
-#templater 
 # Modul 6 - Antropologi Pendidikan
 ## KB1 Manusia dan Kebudayaan
 ### Study Outline
@@ -280,3 +279,5 @@ Perubahan pada masyarakat ini merupakan suatu proses yang luas, dan lengkap yang
 Oleh karena itu daya serap perubahan sosial akan selalu merembes ke segala segi kehidupan masyarakat, khususnya di bidang pendidikan. Melalui pewarisan kebudayaan dan internalisasi nilai pada setiap individu, pendidikan hadir dalam bentuk sosialisasi kebudayaan, yang berinteraksi dengan nilai-nilai masyarakat dan memelihara interaksi masyarakat-masyarakat tersebut, yang pada akhirnya juga berpengaruh pada perubahan tatanan sosio-kultural masyarakat secara keseluruhan
 
 ## KB2 Glo
+
+# Modul 8 - Hakikat Sistem Pendidikan Nasional

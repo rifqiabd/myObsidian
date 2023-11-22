@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "323bb1e1033e778c",
+        "id": "96974b952841bbff",
         "type": "tabs",
         "children": [
           {
-            "id": "b3e99c65499e91af",
+            "id": "82e27e73ddd34b03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todos.md",
+                "file": "001 Zettelkasten/Study Block.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "0e6c015e89511b30",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Todos draw.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Todos draw.excalidraw.md"
+                "file": "001 Zettelkasten/Study Block.md"
               }
             }
           },
@@ -118,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Todos draw.excalidraw.md",
+                "file": "001 Zettelkasten/Study Block.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Todos draw.excalidraw.md",
+                "file": "001 Zettelkasten/Study Block.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,8 +161,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e6c015e89511b30",
+  "active": "82e27e73ddd34b03",
   "lastOpenFiles": [
+    "001 Zettelkasten/Sociolinguistics I.md",
+    "001 Zettelkasten/Study Block.md",
+    "001 Zettelkasten/Sesi 7 - Sistem Pendidikan Nasional.md",
+    "002 Reference/Pengantar Pendidikan (MKDK4001).md",
+    "etc/Template/TOC Cr0kz.md",
     "Todos.md",
     "Excalidraw/Todos draw.excalidraw.md",
     "Excalidraw",
@@ -183,7 +177,6 @@
     "001 Zettelkasten/Untitled 1.md",
     "001 Zettelkasten/Reading I.md",
     "001 Zettelkasten/Sesi 7 Inferences and Conclusion.md",
-    "002 Reference/Pengantar Pendidikan (MKDK4001).md",
     "001 Zettelkasten/Untitled.md",
     "001 Zettelkasten/Sesi 6 Eksistensi Perubahan Sosial Hubungannya dengan Pendidikan Formal, Nonformal dan Informal.md",
     "001 Zettelkasten/Sosialisasi EMIS TPQ Madin Buaran.md",
@@ -197,14 +190,10 @@
     "Kuliah/Structure I/Sesi 5 Present And Past Tenses (Modul 8, dan 9).md",
     "001 Zettelkasten/Untitled 2.md",
     "001 Zettelkasten/Pendidikan Agama Islam (MKDU4221).md",
-    "001 Zettelkasten/Sociolinguistics I.md",
     "001 Zettelkasten/Sesi 5 - Sociolinguistics and Language Teaching.md",
     "Status Diskusi.md",
     "001 Zettelkasten/Structure I.md",
-    "001 Zettelkasten/Sesi 5 Organizational Patterns.md",
-    "001 Zettelkasten/Subject Verb Agreement - Penjelasan Lengkap Aturan disertai Contoh.md",
     "Pasted image 20231111023831.png",
-    "001 Zettelkasten/Modul 6 Antropologi Pendidikan.md",
     "Pasted image 20231109145027.png",
     "Pasted image 20231109012050.png",
     "003 File/Recount Text.png",

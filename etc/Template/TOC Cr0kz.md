@@ -1,6 +1,6 @@
 <%*
 // Constants for TOC markers
-const markerTOCstart = '>[!SUMMARY]+ Table of Contents';
+const markerTOCstart = '>[!SUMMARY]- Table of Contents';
 const markerTOCend = '%%ENDTOC%%';
 
 // Get the active file and its metadata
@@ -62,5 +62,3 @@ if (newTOC.length > 0) {
 // Update the file with the new content
 await app.vault.modify(activeFile, fileContentSplit.join('\n'));
 %>
-
-#templater 
