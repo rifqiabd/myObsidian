@@ -25,3 +25,10 @@
 - [ ] Merapikan SIM
 - [ ] Merapikan File
 - [ ] Membuat Pembagian Tugas
+
+**Utang Nabil 50**
+**Titipan Rama** 
+800+150 = 950
+**Real**
+250 + 400 = 650
+**Hutang** = 150

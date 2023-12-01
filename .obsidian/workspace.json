@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "96974b952841bbff",
+        "id": "3c2241877f0c636d",
         "type": "tabs",
         "children": [
           {
-            "id": "82e27e73ddd34b03",
+            "id": "d2879533f9abb4f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Zettelkasten/Study Block.md",
+                "file": "001 Zettelkasten/Sesi 8 - Spoof Texts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb27d15c42d63021",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 Reference/Writing I.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 Zettelkasten/Study Block.md"
+                "file": "002 Reference/Writing I.md"
               }
             }
           },
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 Zettelkasten/Study Block.md",
+                "file": "002 Reference/Writing I.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 Zettelkasten/Study Block.md",
+                "file": "002 Reference/Writing I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,20 +168,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "translate:Open translation view": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82e27e73ddd34b03",
+  "active": "fb27d15c42d63021",
   "lastOpenFiles": [
-    "001 Zettelkasten/Sociolinguistics I.md",
-    "001 Zettelkasten/Study Block.md",
+    "001 Zettelkasten/Sesi 8 - Spoof Texts.md",
+    "001 Zettelkasten/Sesi 7 - Budaya Akademik dan Budaya Kerja (Etos) dalam Islam.md",
+    "001 Zettelkasten/Work To Do.md",
+    "Todos.md",
     "001 Zettelkasten/Sesi 7 - Sistem Pendidikan Nasional.md",
+    "001 Zettelkasten/Study Block.md",
+    "001 Zettelkasten/Sociolinguistics I.md",
     "002 Reference/Pengantar Pendidikan (MKDK4001).md",
     "etc/Template/TOC Cr0kz.md",
-    "Todos.md",
     "Excalidraw/Todos draw.excalidraw.md",
     "Excalidraw",
     "001 Zettelkasten/Sesi 6 - Future Tenses.md",
@@ -190,9 +205,6 @@
     "Kuliah/Structure I/Sesi 5 Present And Past Tenses (Modul 8, dan 9).md",
     "001 Zettelkasten/Untitled 2.md",
     "001 Zettelkasten/Pendidikan Agama Islam (MKDU4221).md",
-    "001 Zettelkasten/Sesi 5 - Sociolinguistics and Language Teaching.md",
-    "Status Diskusi.md",
-    "001 Zettelkasten/Structure I.md",
     "Pasted image 20231111023831.png",
     "Pasted image 20231109145027.png",
     "Pasted image 20231109012050.png",

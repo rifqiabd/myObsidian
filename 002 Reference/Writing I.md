@@ -103,6 +103,11 @@ Highlights the significant of the events for character. The crisis is revolved, 
 - **Re-orientation** : (optional) The ending of the story.
 
 
-# References
+## References
 Modul 6 BMP Writing I (PBIS4111.6) Universitas Terbuka
 [Narrative Text (lila-english.blogspot.com)](http://lila-english.blogspot.com/2012/11/narrative-text.html) diakses 9/11/2023 pada http://lila-english.blogspot.com/2012/11/narrative-text.html
+# Modul 8 Spoof Texts
+Kamus Longman Dictionary of Contemporary English "a Funny untrue copy or description"
+Spoof adalah "Funny" (lucu)
+Spoof Texts is some funny story or incident
+
