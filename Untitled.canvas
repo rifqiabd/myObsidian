@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"0a09ea2a5da21744","type":"file","file":"Kuliah/Pengantar Pendidikan/Sesi 5 Antropologi Pendidikan.md","x":-700,"y":-340,"width":400,"height":400},
-		{"id":"a01d66f529835d16","type":"text","text":"Beware","x":-200,"y":0,"width":250,"height":60}
-	],
-	"edges":[
-		{"id":"587b6981754c9f92","fromNode":"0a09ea2a5da21744","fromSide":"bottom","toNode":"a01d66f529835d16","toSide":"bottom"}
-	]
-}
